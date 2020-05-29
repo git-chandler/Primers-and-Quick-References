@@ -1,1 +1,1 @@
-I forget things sometimes. There are innumerable texts on statistics, linear regression, and econometrics. However, I find the best references are the references I've constructed myself in my own interpretation. The contents of this repository are my attempt at just that.
+I forget things sometimes. There are innumerable texts on statistics, linear regression, and econometrics. However, I find the best references are those I've constructed myself in my own interpretation. The contents of this repository are my attempt at just that.
